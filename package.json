@@ -1,0 +1,14 @@
+{
+  "name": "kat",
+  "version": "0.0.1",
+  "description": "Sledovac zmen v katastru nemovitosti",
+  "main": "kat.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vit Zikmund",
+  "license": "ISC",
+  "dependencies": {
+    "nightmare": "^3.0.1"
+  }
+}
